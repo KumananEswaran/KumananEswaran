@@ -15,6 +15,4 @@
 <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumananeswaran&" alt="kumananeswaran" />
 </p>
 
-<p></p>
-
 ![Codewars](https://github.r2v.ch/codewars?user=kumanan1731&hide_clan=true&hide_position=true&top_languages=true&stroke=%234d0be6&theme=purple_light)
