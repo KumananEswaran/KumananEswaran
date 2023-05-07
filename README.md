@@ -11,8 +11,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumananeswaran&show_icons=true&locale=en&layout=compact" alt="kumananeswaran" /></p>
 
-<p>&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kumananeswaran&show_icons=true&locale=en" alt="kumananeswaran" /></p>
+<p>&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kumananeswaran&show_icons=true&locale=en" alt="kumananeswaran" />
+<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumananeswaran&" alt="kumananeswaran" />
+</p>
 
-<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumananeswaran&" alt="kumananeswaran" /></p>
+<p></p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=kumanan1731&hide_clan=true&hide_position=true&top_languages=true&stroke=%234d0be6&theme=purple_light)
