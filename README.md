@@ -14,7 +14,7 @@
 <br>
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kumananeswaran&show_icons=true&locale=en" alt="kumananeswaran" />
-<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumananeswaran&" alt="kumananeswaran" />
+<img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumananeswaran&" alt="kumananeswaran" />
 </p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=kumanan1731&hide_clan=true&hide_position=true&top_languages=true&stroke=%234d0be6&theme=purple_light)
