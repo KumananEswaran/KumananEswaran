@@ -42,7 +42,7 @@
         <p><strong>Javascript, HTML, CSS & React.js</strong> - Budget Tracking App Created Using React</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Dog Generator"</h3>
+      <h3 align="center">Dog Generator</h3>
         <br />
       <a target="_blank" href="https://dog-generator-api.netlify.app">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVhMDNmNjBjODFiMTZiM2U5OWNlNzdlZTliM2MzMjg1MGIwODU5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HeOnxlRw2MsW2fCYPU/giphy.gif" width="100%"  alt="Dog-Generator"/>
@@ -81,7 +81,7 @@
         <p><strong>Javascript, HTML, CSS & React.js</strong> - This project is a Netflix clone landing page built using HTML, CSS and Javascript.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Loruki Cloud Hosting"</h3>
+      <h3 align="center">Loruki Cloud Hosting</h3>
         <br />
       <a target="_blank" href="https://cloudhossting.netlify.app/">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRkOWM5MTc3NjVkNjc2MDJkNmRlNDc4OTI3MTE0MGIzMjExZGI4NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7mD1yWQNb3llGIddYF/giphy.gif" width="100%" alt="loruki"/" width="100%"  alt="Loruki"/>
