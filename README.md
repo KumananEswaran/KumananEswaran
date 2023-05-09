@@ -18,3 +18,46 @@
 </p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=kumanan1731&hide_clan=true&hide_position=true&top_languages=true&stroke=%234d0be6&theme=purple_light)
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Budget App</h3>
+        <br />
+        <a target="_blank" href="https://budget-app-using-react.netlify.app">
+            <img src="https://media.giphy.com/media/MtqxT2iaikX8huZUVV/giphy.gif" width="100%" alt="Budget App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KumananEswaran/budget_app_react" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://budget-app-using-react.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML, CSS, React.js</strong> - This is a user-friendly expense tracking app developed using React, which allows you to keep track of your daily expenses and manage your budget effectively.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Dog Generator"</h3>
+        <br />
+      <a target="_blank" href="https://dog-generator-api.netlify.app">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVhMDNmNjBjODFiMTZiM2U5OWNlNzdlZTliM2MzMjg1MGIwODU5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HeOnxlRw2MsW2fCYPU/giphy.gif" width="100%"  alt="Dog-Generator"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KumananEswaran/dog-generator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://dog-generator-api.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML, CSS </strong> - Creates a totally random dog, with a unique name </p>
+    </td>
+  </tr>
+
