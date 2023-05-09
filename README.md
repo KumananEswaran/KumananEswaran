@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML, CSS, React.js</strong> - This is a user-friendly expense tracking app developed using React, which allows you to keep track of your daily expenses and manage your budget effectively.</p>
+        <p><strong>Javascript, HTML, CSS & React.js</strong> - Budget Tracking App Created Using React</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Dog Generator"</h3>
@@ -57,7 +57,47 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML, CSS </strong> - Creates a totally random dog, with a unique name </p>
+        <p><strong>Javascript, HTML & CSS </strong> - Creates a totally random dog, with a unique name </p>
     </td>
   </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Netflix-2019-Clone</h3>
+        <br />
+        <a target="_blank" href="https://netflix2019clone.netlify.app">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVlMTBjOWFjMGQ4NmE4NWI0YmY0ZmJjOGFlYTZiYzMwZjBlM2Q2MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vgK7a9ogpX0v7IDdKu/giphy.gif" width="100%" alt="Netflix-2019-Clone"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KumananEswaran/netflix-2019-clone" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://netflix2019clone.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML, CSS & React.js</strong> - Budget Tracking App Created Using React</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Loruki Cloud Hosting"</h3>
+        <br />
+      <a target="_blank" href="https://cloudhossting.netlify.app/">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRkOWM5MTc3NjVkNjc2MDJkNmRlNDc4OTI3MTE0MGIzMjExZGI4NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7mD1yWQNb3llGIddYF/giphy.gif" width="100%" alt="loruki"/" width="100%"  alt="Loruki"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KumananEswaran/loruki-clone" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://cloudhossting.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML & CSS </strong> - This project is a Loruki cloud hosting clone website landing page built using HTML and CSS. </p>
+    </td>
+  </tr>
+</table>
 
