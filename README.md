@@ -8,3 +8,47 @@
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
 </p>
+
+Aspiring software developer with a background in manufacturing engineering, bringing strong problem-solving and process optimization skills. Experienced in JavaScript, React, and front-end development, with a passion for building responsive web apps and writing efficient code. Always learning and eager to collaborate on impactful digital solutions.
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Expenses Chart Component</h3>
+        <br />
+        <a target="_blank" href="https://expense-chart-fm-challenge.netlify.app/">
+            <img src="https://i.postimg.cc/Hsf2tX9V/expense-chart-fm-challenge-netlify-app.png" width="100%" alt="Expenses Chart"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KumananEswaran/expenses-chart" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://expense-chart-fm-challenge.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>CSS & React</strong> - Expense Tracker Dashboard built with React, featuring a dynamic chart that visualizes spending over the past week and displays the user's balance.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">REST Countries API</h3>
+        <br />
+      <a target="_blank" href="https://country-rest-api-frontendmentor.netlify.app/">
+            <img src="https://i.postimg.cc/Y0njr6bk/country-rest-api-frontendmentor-netlify-app-1.png" width="100%"  alt="REST Countries API"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KumananEswaran/rest-countries-api" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://country-rest-api-frontendmentor.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS, & Javascript</strong> - A web application that displays country data using the REST Countries API, with features like search, filtering, and dark mode, optimized for responsiveness.</p>
+    </td>
+  </tr>
