@@ -49,6 +49,50 @@ Aspiring software developer with a background in manufacturing engineering, brin
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS, & Javascript</strong> - A web application that displays country data using the REST Countries API, with features like search, filtering, and dark mode, optimized for responsiveness.</p>
+        <p><strong>HTML5, CSS, & JavaScript</strong> - A web application that displays country data using the REST Countries API, with features like search, filtering, and dark mode, optimized for responsiveness.       </p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Coffeeroasters Subscription Site</h3>
+        <br />
+        <a target="_blank" href="https://coffeeroasters-fm-challenge.netlify.app/">
+            <img src="https://i.postimg.cc/GpwPcJSv/coffeeroasters-fm-challenge-netlify-app.png" width="100%" alt="Coffeeroasters Subscription Site"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KumananEswaran/coffeeroasters" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://coffeeroasters-fm-challenge.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, SCSS & JavaScript</strong> - This project is a responsive 3-page subscription website for Coffeeroasters, featuring a homepage, about page, and a subscription plan creation page.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Interactive Frontend Quiz App</h3>
+        <br />
+      <a target="_blank" href="https://fm-quiz-app.netlify.app/">
+            <img src="https://i.postimg.cc/wv8QxK0q/fm-quiz-app-netlify-app.png" width="100%"  alt="Quiz App"/>
+        </a>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KumananEswaran/frontend-quiz-app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://fm-quiz-app.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS, & JavaScript</strong> - This project is an interactive quiz app with dark mode functionality, where users can choose subjects, answer questions, and track their score.</p>
+    </td>
+  </tr>
+</table>
