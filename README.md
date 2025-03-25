@@ -17,11 +17,18 @@ Aspiring software developer with a background in manufacturing engineering, brin
 <tr>
     <td width="50%" valign="top">
       <h3 align="center">Todo App</h3>
-        <br />
+      <p align="center">(username = user@example.co; password = password)</p>
+<!--         <br /> -->
+        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/login">
+            <img src="https://i.postimg.cc/z3mB8Lj3/todo-app-zeta-puce-vercel-app-login.png" width="100%" alt="Todo App"/>
+        </a>
         <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/login">
             <img src="https://i.postimg.cc/FsPWWjT9/todo-app-zeta-puce-vercel-app.png" width="100%" alt="Todo App"/>
         </a>
-        <br />
+        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/login">
+            <img src="https://i.postimg.cc/ZnWBTzzs/todo-app-zeta-puce-vercel-app-1.png" width="100%" alt="Todo App"/>
+        </a>
+<!--         <br /> -->
         <p align="center">
           
   <a href="https://github.com/KumananEswaran/todo-app" target="_blank">
@@ -31,7 +38,7 @@ Aspiring software developer with a background in manufacturing engineering, brin
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React & Bootstrap</strong> - This project is a React.js todo app with authentication, protected routes, and features like Toastify notifications for task addition and modal confirmations for deletions.</p>
+        <p><strong>React & Bootstrap</strong> - This project is a React.js todo app with authentication, protected routes, and features like Toastify notifications for task addition and modal confirmations for deletion.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">REST Countries API</h3>
