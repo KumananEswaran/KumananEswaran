@@ -16,22 +16,22 @@ Aspiring software developer with a background in manufacturing engineering, brin
 
 <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Expenses Chart Component</h3>
+      <h3 align="center">Todo App</h3>
         <br />
-        <a target="_blank" href="https://expense-chart-fm-challenge.netlify.app/">
-            <img src="https://i.postimg.cc/Hsf2tX9V/expense-chart-fm-challenge-netlify-app.png" width="100%" alt="Expenses Chart"/>
+        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/login">
+            <img src="https://i.postimg.cc/FsPWWjT9/todo-app-zeta-puce-vercel-app.png" width="100%" alt="Todo App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/KumananEswaran/expenses-chart" target="_blank">
+  <a href="https://github.com/KumananEswaran/todo-app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://expense-chart-fm-challenge.netlify.app/" target="_blank">
+  <a href="https://todo-app-zeta-puce.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>CSS & React</strong> - Expense Tracker Dashboard built with React, featuring a dynamic chart that visualizes spending over the past week and displays the user's balance.</p>
+        <p><strong>React & Bootstrap</strong> - This project is a React.js todo app with authentication, protected routes, and features like Toastify notifications for task addition and modal confirmations for deletions.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">REST Countries API</h3>
