@@ -19,13 +19,13 @@ Aspiring software developer with a background in manufacturing engineering, brin
       <h3 align="center">Todo App</h3>
       <p align="center">(username = user@example.co; password = password)</p>
 <!--         <br /> -->
-        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/login">
+        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/">
             <img src="https://i.postimg.cc/z3mB8Lj3/todo-app-zeta-puce-vercel-app-login.png" width="100%" alt="Todo App"/>
         </a>
-        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/login">
+        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/">
             <img src="https://i.postimg.cc/FsPWWjT9/todo-app-zeta-puce-vercel-app.png" width="100%" alt="Todo App"/>
         </a>
-        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/login">
+        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/">
             <img src="https://i.postimg.cc/ZnWBTzzs/todo-app-zeta-puce-vercel-app-1.png" width="100%" alt="Todo App"/>
         </a>
 <!--         <br /> -->
