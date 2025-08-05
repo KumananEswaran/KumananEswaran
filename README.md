@@ -9,54 +9,53 @@
   </a>
 </p>
 
-Aspiring software developer with a background in manufacturing engineering, bringing strong problem-solving and process optimization skills. Experienced in JavaScript, React, and front-end development, with a passion for building responsive web apps and writing efficient code. Always learning and eager to collaborate on impactful digital solutions.
+Aspiring software developer transitioning from chemical engineering. Skilled in the PERN stack, with hands-on experience in building responsive web applications. Seeking an entry-level developer role to gain industry experience and continue growing professionally in the field of software development.
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 
 <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Todo App</h3>
-      <p align="center">(username = user@example.co; password = password)</p>
+      <h3 align="center">Recipe Sharing App</h3>
 <!--         <br /> -->
-        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/">
-            <img src="https://i.postimg.cc/z3mB8Lj3/todo-app-zeta-puce-vercel-app-login.png" width="100%" alt="Todo App"/>
+        <a target="_blank" href="https://recipe-sharing-app-mu.vercel.app/">
+            <img src="https://i.postimg.cc/DzHc1vBv/recipe-sharing-app-mu-vercel-app-1.png" width="100%" alt="Recipe Hub"/>
         </a>
-        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/">
-            <img src="https://i.postimg.cc/FsPWWjT9/todo-app-zeta-puce-vercel-app.png" width="100%" alt="Todo App"/>
-        </a>
-        <a target="_blank" href="https://todo-app-zeta-puce.vercel.app/">
-            <img src="https://i.postimg.cc/ZnWBTzzs/todo-app-zeta-puce-vercel-app-1.png" width="100%" alt="Todo App"/>
+        <a target="_blank" href="https://recipe-sharing-app-mu.vercel.app/">
+            <img src="https://i.postimg.cc/rsPhZ194/recipe-sharing-app-mu-vercel-app-search-recipe2.png" width="100%" alt="Recipe Hub"/>
         </a>
 <!--         <br /> -->
         <p align="center">
           
-  <a href="https://github.com/KumananEswaran/todo-app" target="_blank">
+  <a href="https://github.com/KumananEswaran/recipe-sharing-app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://todo-app-zeta-puce.vercel.app/" target="_blank">
+  <a href="https://recipe-sharing-app-mu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React & Bootstrap</strong> - This project is a React.js todo app with authentication, protected routes, and features like Toastify notifications for task addition and modal confirmations for deletion.</p>
+        <p><strong>React, Express, Node.js, PostgreSQL, Firebase Authentication & Bootstrap</strong> - RecipeHub is a full-stack app where users can share, browse, and save recipes.  </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">REST Countries API</h3>
+      <h3 align="center">Task Management App</h3>
         <br />
-      <a target="_blank" href="https://country-rest-api-frontendmentor.netlify.app/">
-            <img src="https://i.postimg.cc/Y0njr6bk/country-rest-api-frontendmentor-netlify-app-1.png" width="100%"  alt="REST Countries API"/>
+      <a target="_blank" href="https://task-management-app-jet-nine.vercel.app/">
+            <img src="https://i.postimg.cc/P5yHPVby/task-management-app-jet-nine-vercel-app.png" width="100%"  alt="Task Management App"/>
+        </a>
+        <a target="_blank" href="https://task-management-app-jet-nine.vercel.app/">
+            <img src="https://i.postimg.cc/jSw2Nb5c/task-management-app-jet-nine-vercel-app-tasks.png" width="100%"  alt="Task Management App"/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/KumananEswaran/rest-countries-api" target="_blank">
+        <br />  
+  <a href="https://github.com/KumananEswaran/task-management-app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://country-rest-api-frontendmentor.netlify.app/" target="_blank">
+  <a href="https://task-management-app-jet-nine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS, & JavaScript</strong> - A web application that displays country data using the REST Countries API, with features like search, filtering, and dark mode, optimized for responsiveness.       </p>
+        <p><strong>React, Express, Node.js, PostgreSQL</strong> - A React-based task management app with CRUD functionality. </p>
     </td>
   </tr>
 
@@ -79,27 +78,23 @@ Aspiring software developer with a background in manufacturing engineering, brin
       </p>
         <p><strong>HTML5, SCSS & JavaScript</strong> - This project is a responsive 3-page subscription website for Coffeeroasters, featuring a homepage, about page, and a subscription plan creation page.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Interactive Frontend Quiz App</h3>
+<td width="50%" valign="top">
+      <h3 align="center">REST Countries API</h3>
         <br />
-      <a target="_blank" href="https://fm-quiz-app.netlify.app/">
-            <img src="https://i.postimg.cc/wv8QxK0q/fm-quiz-app-netlify-app.png" width="100%"  alt="Quiz App"/>
+      <a target="_blank" href="https://country-rest-api-frontendmentor.netlify.app/">
+            <img src="https://i.postimg.cc/Y0njr6bk/country-rest-api-frontendmentor-netlify-app-1.png" width="100%"  alt="REST Countries API"/>
         </a>
-        <br />
-        <br />
-        <br />
-        <br />
         <br />
         <p align="center">
           
-  <a href="https://github.com/KumananEswaran/frontend-quiz-app" target="_blank">
+  <a href="https://github.com/KumananEswaran/rest-countries-api" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://fm-quiz-app.netlify.app/" target="_blank">
+  <a href="https://country-rest-api-frontendmentor.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS, & JavaScript</strong> - This project is an interactive quiz app with dark mode functionality, where users can choose subjects, answer questions, and track their score.</p>
+        <p><strong>HTML5, CSS, & JavaScript</strong> - A web application that displays country data using the REST Countries API, with features like search, filtering, and dark mode, optimized for responsiveness.       </p>
     </td>
   </tr>
 </table>
