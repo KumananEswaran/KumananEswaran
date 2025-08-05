@@ -1,7 +1,7 @@
 ![Screenshot 2025-02-26 233254](https://github.com/user-attachments/assets/ca608f0a-95fe-4987-a8dd-384362977018)
 
 <p align="center">
-  <a href="https://kumanan.vercel.app/" target="_blank">
+  <a href="https://kumanan1731.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kumanan-eswaran" target="_blank">
@@ -104,13 +104,18 @@ Aspiring software developer transitioning from chemical engineering. Skilled in 
 
 
 <p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=3a5f73&style=plastic&logo=postgresql"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=3c7f5d&style=plastic&logo=node.js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=2c4e4a&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=ffa611&style=plastic&logo=firebase"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+   
 </p>
 
 
@@ -123,7 +128,7 @@ Aspiring software developer transitioning from chemical engineering. Skilled in 
 
 
 <p align="center">
-  <a href="https://kumanan.vercel.app/" target="_blank">
+  <a href="https://kumanan1731.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kumanan-eswaran" target="_blank">
